@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Small Introduction<br><br>Passionate Computer Science student and aspiring software developer with a strong interest in AI, NLP, and full-stack development. I enjoy building real-world projects, learning new technologies, and continuously improving my problem-solving skills.<br><br>🚀 Working on AI & full-stack projects <br><br> 🌱 Learning ML, NLP & backend systems <br><br>🤝 Open to collaborations & open-source <br><br>💬 Ask me about Python, Git, AI basics <br><br>⚡ Fun fact: I learn faster by building real projects <br><br>
+✨ Small Introduction<br><br>Passionate Computer Science student and aspiring software developer with a strong interest in AI, NLP, and full-stack development. I enjoy building real-world projects, learning new technologies, and continuously improving my problem-solving skills.<br><br>🚀 Working on AI & full-stack projects <br> 🌱 Learning ML, NLP & backend systems <br>🤝 Open to collaborations & open-source <br>💬 Ask me about Python, Git, AI basics <br>⚡ Fun fact: I learn faster by building real projects <br><br>
 
 
 ## 🌐 Socials:
